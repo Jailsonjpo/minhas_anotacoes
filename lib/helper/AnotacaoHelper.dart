@@ -1,3 +1,4 @@
+import 'package:flutter/material.dart';
 import 'package:minhas_anotacoes/model/Anotacao.dart';
 import 'package:sqflite/sqflite.dart';
 import 'package:path/path.dart';
@@ -70,8 +71,16 @@ class AnotacaoHelper {
       where: "id = ?",
       whereArgs: [anotacao.id]
     );
-
   }
 
+  Future<int> removerAnotacao(int id) async{
 
+    var bancoDados = await db;
+
+    return await bancoDados.delete(
+      nomeTabela,
+      where: "id = ?",
+      whereArgs: [id]
+    );
+  }
 }
