@@ -2,7 +2,7 @@
 
 ![GitHub language count](https://img.shields.io/github/languages/count/jailsonjpo/minhas_anotacoes)
 ![GitHub top language](https://img.shields.io/github/languages/top/jailsonjpo/minhas_anotacoes)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+![GitHub](https://img.shields.io/github/license/jailsonjpo/minhas_anotacoes)
 
 ## Description
 
