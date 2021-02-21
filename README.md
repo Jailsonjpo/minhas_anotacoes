@@ -40,7 +40,7 @@ The My Notes app uses the SQLite database that will be created as soon as the AP
   
   ```
   
-  ## Alterando o nome da Tabela
+  ## Changing the Table name
   
   To change the name of the table, just change the file **AnnotationHelper.dart** and change the name to the one you prefer.
   ```
