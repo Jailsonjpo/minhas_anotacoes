@@ -2,6 +2,7 @@
 
 ![GitHub language count](https://img.shields.io/github/languages/count/jailsonjpo/minhas_anotacoes)
 ![GitHub top language](https://img.shields.io/github/languages/top/jailsonjpo/minhas_anotacoes)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 ## Description
 
@@ -15,13 +16,13 @@ This project is part of my personal portfolio, an application in which the user 
 
 ## Functionalities
 
-1 - Register Annotations :heavy_check_mark:;
+1 - Register Annotations :heavy_check_mark:
 
-2 - List Annotations;
+2 - List Annotations :heavy_check_mark:
 
-3 - Edit the Annotations;
+3 - Edit the Annotations :heavy_check_mark:
 
-4 - Delete Annotations.
+4 - Delete Annotations :heavy_check_mark:
 
 
 ## Connecting the application to the server
