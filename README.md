@@ -1,5 +1,8 @@
 # APP Minhas Anotações
 
+![GitHub language count](https://img.shields.io/github/languages/count/jailsonjpo/minhas_anotacoes)
+![GitHub top language](https://img.shields.io/github/languages/top/jailsonjpo/minhas_anotacoes)
+
 ## Description
 
 An application developed with the Flutter Framework in the Dart language, the SQLite database was used, it saves the data directly on the user's device.  
@@ -12,7 +15,7 @@ This project is part of my personal portfolio, an application in which the user 
 
 ## Functionalities
 
-1 - Register Annotations;
+1 - Register Annotations :heavy_check_mark:;
 
 2 - List Annotations;
 
